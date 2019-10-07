@@ -163,3 +163,4 @@ setup(
     ],
     cmdclass={"upload": UploadCommand, "deb": DebCommand},
 )
+
